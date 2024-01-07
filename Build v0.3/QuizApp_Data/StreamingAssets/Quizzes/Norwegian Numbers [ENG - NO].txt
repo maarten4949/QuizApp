@@ -1,0 +1,10 @@
+one;en,ett
+two;to
+three;tre
+four;fire
+five;fem
+six;seks
+seven;sju,syv
+eight;åtte,atte
+nine;ni
+ten;ti
