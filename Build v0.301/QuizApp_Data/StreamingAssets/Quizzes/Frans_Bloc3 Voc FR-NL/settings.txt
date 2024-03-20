@@ -1,4 +1,0 @@
-Case sensitive;false
-Invert;true
-copyFrom;Frans_Bloc3 Voc
-tags;french,fr_bloc3
