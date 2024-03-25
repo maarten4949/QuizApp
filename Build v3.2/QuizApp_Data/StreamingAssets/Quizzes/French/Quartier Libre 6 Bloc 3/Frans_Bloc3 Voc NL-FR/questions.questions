@@ -2,7 +2,7 @@ de aankoop;l'achat(m)|l'achat
 de begunstigde;le bénéficiaire
 de bestuurder;le conducteur/la conductrice|la conductrice|le conducteur
 het carpoolen;le covoiturage
-het bedrag;le montant
+het bedrag;le montant|la somme
 het middel;le moyen
 de betaling;le paiement|le règlement
 het autodelen;le partage de voiture
@@ -17,12 +17,12 @@ de gegevens;les données (f)|les données
 de benzine;l'essence (f)|l'essence
 de maandelijkse afbetaling;la mensualité
 de uitputting van de stock;la rupture de stock
-het bedrag;la somme
-la valeur;de waarde
+het bedrag;la somme|le montant
+de waarde;la valeur
 betaalbaar;abordable
 bereikbaar;accesible
 voordelig;avantageux, avantageuse|avantageux|avantageuse
-goedkoop;bon marché
+goedkoop;bon marché|à petit prix
 bestemd voor;destiné à
 ongewoon;inhabituel;
 (fabrieks)nieuw|nieuw|fabrieksnieuw;neuf, neuve|neuf|neuve
@@ -38,7 +38,7 @@ betalen;régler
 terugbetalen;rembourser
 opzeggen;résilier
 ondertekenen;souscrire
-goekoop;à petit prix
+goekoop;à petit prix|bon marché
 over de middelen beschikken om te;avoir les moyens de
 iets onmiddelijk leuk, aantrekkelijk vinden|iets onmiddelijk leuk vinden|iets onmiddelijk aantrekkelijk vinden;avoir un coup de coeur
 cash;en espèces|en liquide
